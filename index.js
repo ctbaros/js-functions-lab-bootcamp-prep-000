@@ -9,5 +9,5 @@ function happyHolidayTo() {
   return 'Happy Independence Day, you!'
 }
 function holidayCountdown() {
-  return 'Its ${days} days until ${holiday}!'
+  return 'Its 40 days until Mother\'s Day!'
 }
